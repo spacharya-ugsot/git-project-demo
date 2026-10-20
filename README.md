@@ -16,3 +16,8 @@ I am a student at <college name>, currently learning Git and GitHub.
 
 ## Contact
 - Email: your-email@example.com
+
+
+## Hobbies
+- <your hobby>
+- <another hobby>
