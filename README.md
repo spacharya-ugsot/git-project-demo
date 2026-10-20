@@ -12,3 +12,7 @@ I am a student at <college name>, currently learning Git and GitHub.
 ## Projects
 - <project name>: one line about it
 - <project name>: one line about it
+
+
+## Contact
+- Email: your-email@example.com
