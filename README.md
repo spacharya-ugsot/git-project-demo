@@ -21,3 +21,6 @@ I am a student at <college name>, currently learning Git and GitHub.
 ## Hobbies
 - <your hobby>
 - <another hobby>
+
+## Footer
+- S.P Acharya
